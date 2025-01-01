@@ -2,9 +2,9 @@
 $myusername = $_POST['u'];
 $mypassword = $_POST['p'];
 $servername = "localhost";
-$username = 'id1298591_sportpro';
+$username = 'id1298591_ezsports';
 $password = '11111';
-$dbname = "id1298591_sportpro";
+$dbname = "id1298591_ezsports";
 // Create connection
 $conn = new mysqli($servername, $username, $password,$dbname);
 // Check connection
