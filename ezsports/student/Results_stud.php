@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = 'id1298591_sportpro';
+$username = 'id1298591_ezsports';
 $password = '11111';
-$dbname = "id1298591_sportpro";
+$dbname = "id1298591_ezsports";
 // Create connection
 $conn = new mysqli($servername, $username, $password,$dbname);// Check connection
 if ($conn->connect_error) {
@@ -32,7 +32,7 @@ ga('send', 'pageview');
 
 <header>
 <img src="http://vectorlogofree.com/wp-content/uploads/2013/01/canadian-olympic-team-logo-vector-400x400.png" width="100px" height="80px">
-<h1 class="liketext">SportPro</h1>
+<h1 class="liketext">ezSports</h1>
 </header>
 
 <div class="row">
